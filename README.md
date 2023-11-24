@@ -93,7 +93,8 @@ will be installed. This will install the app on the device.
 To test the app, open the app called `TFL Classify` on your device. When you run
 the app the first time, the app will request permission to access the camera.
 Re-installing the app may require you to uninstall the previous installations.
-
+### Another way to run the app
+Download the apk file and run the app
 ## Assets folder
 _Do not delete the assets folder content_. If you explicitly deleted the
 files, choose `Build -> Rebuild` to re-download the deleted model files into the
